@@ -120,16 +120,10 @@ Processing time reduced from several hours of manual work to 20–30 seconds. Th
 ## Screenshots
 
 ### Power Query Editor — query architecture
-
-![Power Query Editor](https://claude.ai/chat/screenshots/power_query_editor.png)
+![Power Query Editor](./screenshots/power_query_editor.png)
 
 ### Classified output table
-
-![Output Table](https://claude.ai/chat/screenshots/output_table.png)
-
-### PivotTable with Slicer
-
-![Pivot and Slicer](https://claude.ai/chat/screenshots/pivot_slicer.png)
+![Output Table](./screenshots/output_table.png)
 
 > Each workbook also includes an **Example Output** sheet with static sample data, so you can see the result structure without running the queries.
 
