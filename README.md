@@ -1,6 +1,6 @@
 
 # Bank Statement Automation — Power Query ETL Pipeline
-
+ 
 Automated processing of bank statements from multiple banks with different formats. The pipeline normalizes column names, merges data into a single table, and classifies each payment by branch, payer type, service category, and collection channel — fully inside Excel, with no VBA or external scripts.
 
 Built for a utility company processing 100,000+ transactions per month, but the architecture is format-agnostic and adapts to any industry where payments arrive from multiple sources in inconsistent formats.
